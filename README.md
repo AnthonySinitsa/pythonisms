@@ -33,3 +33,6 @@ Overload operators for custom objects (helps with readability, comparing and ord
 Make code more readable
 
 Allow for interoperability (compatible with various libraries and built-ins)
+
+    pytest tests/test_pythonisms.py
+    
