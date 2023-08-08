@@ -28,11 +28,10 @@ Customize built-in behavior
 
 Create consistency with built-in types
 
-Overload operators for custom objects (helps with readability, comparing and ordering, etc.) 
+Overload operators for custom objects (helps with readability, comparing and ordering, etc.)
 
 Make code more readable
 
 Allow for interoperability (compatible with various libraries and built-ins)
 
     pytest tests/test_pythonisms.py
-    
