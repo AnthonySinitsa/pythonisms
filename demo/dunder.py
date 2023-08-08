@@ -6,7 +6,7 @@ class CustomNumber:
     if isinstance(other, CustomNumber):
       return CustomNumber(self.value + other.value)
     else:
-      raise ValueError("Unsupported operand type for +")
+      raise ValueError("no")
 
   def __repr__(self):
     return f"CustomNumber({self.value})"
