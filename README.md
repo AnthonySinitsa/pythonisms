@@ -1,5 +1,11 @@
 # pythonisms
 
+## Contributions
+
+Dan Quinn, Sarah Glass, Logan Reese
+
+## info
+
 What is a dunder method?
 
 Dunder methods are special methods in Python
